@@ -1,0 +1,6 @@
+tools/
+projects/00/
+**/*.zip
+**/*.cmp
+**/*.out
+**/*.tst
