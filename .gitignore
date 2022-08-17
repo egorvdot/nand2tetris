@@ -1,6 +1,7 @@
 tools/
 projects/00/
-**/*.zip
-**/*.cmp
-**/*.out
-**/*.tst
+*.zip
+*.cmp
+*.out
+*.tst
+.DS_Store
