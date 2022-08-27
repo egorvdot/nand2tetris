@@ -1,7 +1,13 @@
+# NandToTetris
 tools/
 projects/00/
 *.zip
 *.cmp
 *.out
 *.tst
+
+# MacOS
 .DS_Store
+
+# Vim
+*.sw[a-z]
